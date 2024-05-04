@@ -11,7 +11,7 @@ export default function Banner() {
     </svg>`,
     },
     {
-      url: "www.linkedin.com/in/gaurav-vala",
+      url: "https://linkedin.com/in/gaurav-vala",
       icon: ` <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="currentColor"
@@ -55,6 +55,7 @@ export default function Banner() {
           <a
             className="inline-block p-4 bg-white rounded-2xl mt-3 text-black font-semibold text-xl border border-black shadow-2xl shadow-black hover:shadow-black_hover transition-all"
             href="https://drive.google.com/file/d/1FCnGGdwwRGwifGl03xxB3GNfyDv7an5F/view?usp=drive_link"
+            target="_blank"
           >
             Download Resume
           </a>
