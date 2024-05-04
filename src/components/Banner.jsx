@@ -38,7 +38,7 @@ export default function Banner() {
         <div className="profile_container w-56 aspect-square overflow-hidden rounded-2xl shadow-black_2 border border-black">
           <img
             className="w-full h-full object-cover object-top"
-            src="./assets/pfp.jpg"
+            src="./pfp.jpg"
             alt=""
           />
         </div>
