@@ -19,7 +19,7 @@ export default function Experience() {
           <ul>
             {work_obj.map((single_company) => (
               <li className="py-6">
-                <h4 className="text-3xl font-bold">
+                <h4 className="text-2xl lg:text-3xl font-bold">
                   {single_company.company_name}
                 </h4>
                 <p className="pt-2 text-2xl">

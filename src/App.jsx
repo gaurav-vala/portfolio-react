@@ -8,7 +8,7 @@ import Skills from "./components/Skills";
 function App() {
   return (
     <>
-      <div className="main_container lg:w-2/4 mx-auto">
+      <div className="main_container xl:w-2/4 mx-auto">
         <Banner />
         <Skills />
         <Experience />
