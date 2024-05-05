@@ -7,6 +7,7 @@ export default function Skills() {
     "Figma",
     "Photoshop",
     "Canva",
+    "Netlify",
   ];
 
   return (
